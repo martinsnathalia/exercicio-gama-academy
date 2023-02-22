@@ -2,7 +2,7 @@
 
 Para realização do exercício, foi utilizado um arquivo do tipo csv chamado "pokemon.csv" sobre Pokemons do usuário "armgilles" do github.
 
-Em seguida, no ambiente do Jupyter Notebook, foi feito um código :
+Em seguida, no ambiente do Jupyter Notebook foi feito um código para:
 1) Leitura do arquivo csv;
 2) Transformação de algumas colunas para o tipo numérico;
 3) Preenchimento de valores NaN na coluna "Type 2" para o valor "0".
