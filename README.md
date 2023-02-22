@@ -18,3 +18,7 @@ Dessa forma, foi possível verificar a seguinte tabela:
 Finalmente, com o script python servindo de fonte de dados, foi possível gerar um dashboard para a tabela de pokemons:
 
 ![image](https://user-images.githubusercontent.com/89808695/220777349-f60b3c3b-733a-4154-ad4c-04adf0aa40a4.png)
+
+Um exemplo de interação com o dashboard gerado:
+
+![image](https://user-images.githubusercontent.com/89808695/220782404-17c6131a-722b-4e48-95f7-879193c45b26.png)
