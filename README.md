@@ -1,6 +1,6 @@
 # Exercício: manipular dados com Python e fazer a visualização com Power BI
 
-Para realização do exercício, foi utilizado um arquivo do tipo csv chamado "pokemon.csv" sobre Pokemons do usuário armgilles do github.
+Para realização do exercício, foi utilizado um arquivo do tipo csv chamado "pokemon.csv" sobre Pokemons do usuário "armgilles" do github.
 
 Em seguida, no ambiente do Jupyter Notebook, foi feito um código :
 1) Leitura do arquivo csv;
